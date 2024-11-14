@@ -7,9 +7,13 @@ public class Task01Main {
         /*
         codeWithNPE();
          */
+
+        codeWithNPE();
     }
 
     static void codeWithNPE() {
         //todo напишите здесь свою корректную реализацию этого метода, вместо существующей
+        String d = null;
+        d.toLowerCase();
     }
 }
